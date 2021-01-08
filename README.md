@@ -27,8 +27,8 @@ fetc-dummy-data allows you to check and understand the working of javascipt's as
 - [Demo](#demo)
 - [Installation](#installation)
 - [Importing](#importing)
-- API
-  - [Fetching Dummy Data](#fetching-dummy-data)
+- [Fetching Dummy Data](#fetching-dummy-data)
+    - [API](#api)
     - [Usage](#usage)
 
 ## Demo
