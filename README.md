@@ -7,7 +7,7 @@
 
 [![version](https://image-link)](https://package-link) [![downloads](https://image-link)](https://package-link) [![MIT License](https://image-link)](https://License-link)
 
-A dummy data fetching module using javascript `callback`(https://developer.mozilla.org/en-US/docs/Glossary/Callback_function), `promise` and `async/await`.
+A dummy data fetching module using javascript [`callback`](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function), `promise` and `async/await`.
 
 fetc-dummy-data allows you to check and understand the working of javascipt's asynchronous function calls by using three different ways, namely:
 1. JavaScript Callbacks
