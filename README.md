@@ -134,8 +134,6 @@ const dummy = require('../fetch-dummy-data');
     ```
     returns `String` ["Error: ID missing"]
 
----
-
 ## License
 
 To Be Added
