@@ -88,51 +88,51 @@ const dummy = require('../fetch-dummy-data');
 1. ```js
     dummy.callbackProto(2);
     ```
-    returns `String` ["Fetched Data: Donald Trump"]
+    returns `String` "Fetched Data: Donald Trump"
 
 2. ```js
     dummy.callbackProto(-2);
     ```
-    returns `String` ["Error: Invalid ID"]
+    returns `String` "Error: Invalid ID"
 
 3. ```js
     dummy.callbackProto();
     ```
-    returns `String` ["Error: ID missing"]
+    returns `String` "Error: ID missing"
 
 #### `.promiseProto(userId)`
 
 1. ```js
     dummy.promiseProto(1);
     ```
-    returns `String` ["Fetched Data: Joe Biden"]
+    returns `String` "Fetched Data: Joe Biden"
 
 2. ```js
     dummy.promiseProto(-2);
     ```
-    returns `String` ["Error: Invalid ID"]
+    returns `String` "Error: Invalid ID"
 
 3. ```js
     dummy.promiseProto();
     ```
-    returns `String` ["Error: ID missing"]
+    returns `String` "Error: ID missing"
 
 #### `.asyncAwaitProto(userId)`
 
 1. ```js
     dummy.asyncAwaitProto(4);
     ```
-    returns `String` ["Fetched Data: Howie Hawkins"]
+    returns `String` "Fetched Data: Howie Hawkins"
 
 2. ```js
     dummy.asyncAwaitProto(-2);
     ```
-    returns `String` ["Error: Invalid ID"]
+    returns `String` "Error: Invalid ID"
 
 3. ```js
     dummy.asyncAwaitProto();
     ```
-    returns `String` ["Error: ID missing"]
+    returns `String` "Error: ID missing"
 
 ---
 
