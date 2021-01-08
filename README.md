@@ -21,6 +21,7 @@ fetc-dummy-data allows you to check and understand the working of javascipt's as
 - `.promiseProto` to fetch data asynchronously using javascript's promise feature by including `userId` as the function parameter.
 
 - `.asyncAwaitProto` to fetch data asynchronously using javascript's async/await features by including `userId` as the function parameter.
+---
 
 - [Demo](#demo)
 - [Installation](#installation)
