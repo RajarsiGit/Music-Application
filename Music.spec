@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Music.py'],
-             pathex=['C:\\Users\\RAJARSI\\Desktop'],
+             pathex=[],
              binaries=[],
              datas=[],
              hiddenimports=[],
